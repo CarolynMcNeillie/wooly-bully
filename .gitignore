@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+vendor/
+.pnp/
+.pnp.js
+
+# Environment files
+.env
+
+# Operating System
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.temp
+.cache/
